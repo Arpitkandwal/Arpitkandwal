@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Arpit Kandwal</h1>
 <h3 align="center">A passionate Web developer from India.</h3>
 <img align= "right" alt="coding" width= "400" src="https://media4.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Arpitkandwal)](https://git.io/streak-stats)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitkandwal&label=Profile%20views&color=0e75b6&style=flat" alt="arpitkandwal" /> </p>
 
